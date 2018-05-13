@@ -11,4 +11,10 @@
     "branch_url": "http://www.bankofchina.com/sourcedb/operations/",
     "remark": "备注信息"
   }
+  {
+    "name": "中国建设银行",
+    "url": "http://www.ccb.com/cn/home/indexv3.html",
+    "branch_url": "http://www.ccb.com/cn/home/map/branchSearch.html",
+    "remark": "备注信息"
+  }
 ]
